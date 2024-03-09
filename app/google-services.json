@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685417265983",
+    "project_id": "onesignal-9ae59",
+    "storage_bucket": "onesignal-9ae59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685417265983:android:ba536fa4f328cab419718a",
+        "android_client_info": {
+          "package_name": "com.axiagroups.onesignal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsW85t3pX7fmKiSSh0UDpd01EwdYKIuaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
